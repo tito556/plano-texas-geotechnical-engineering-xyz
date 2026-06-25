@@ -1,0 +1,48 @@
+# Geotechnical Engineering — Plano Texas
+
+> Geotechnical engineering services in Plano Texas, United States.
+
+## Services
+- [Anchors](https://plano-texas.geotechnical-engineering.xyz/anchors/)
+- [Atterberg Limits](https://plano-texas.geotechnical-engineering.xyz/atterberg-limits/)
+- [Cbr Road](https://plano-texas.geotechnical-engineering.xyz/cbr-road/)
+- [Cpt Test](https://plano-texas.geotechnical-engineering.xyz/cpt-test/)
+- [Deep Excavations](https://plano-texas.geotechnical-engineering.xyz/deep-excavations/)
+- [Excavations](https://plano-texas.geotechnical-engineering.xyz/excavations/)
+- [Flexible Pavement](https://plano-texas.geotechnical-engineering.xyz/flexible-pavement/)
+- [Footings](https://plano-texas.geotechnical-engineering.xyz/footings/)
+- [Foundations](https://plano-texas.geotechnical-engineering.xyz/foundations/)
+- [Geophysics](https://plano-texas.geotechnical-engineering.xyz/geophysics/)
+- [Grain Size](https://plano-texas.geotechnical-engineering.xyz/grain-size/)
+- [Ground Improvement](https://plano-texas.geotechnical-engineering.xyz/ground-improvement/)
+- [Grouting](https://plano-texas.geotechnical-engineering.xyz/grouting/)
+- [In Situ Permeability](https://plano-texas.geotechnical-engineering.xyz/in-situ-permeability/)
+- [Investigation](https://plano-texas.geotechnical-engineering.xyz/investigation/)
+- [Lab In Situ](https://plano-texas.geotechnical-engineering.xyz/lab-in-situ/)
+- [Laboratory](https://plano-texas.geotechnical-engineering.xyz/laboratory/)
+- [Liquefaction](https://plano-texas.geotechnical-engineering.xyz/liquefaction/)
+- [Masw](https://plano-texas.geotechnical-engineering.xyz/masw/)
+- [Mat Foundations](https://plano-texas.geotechnical-engineering.xyz/mat-foundations/)
+- [Plate Load Test](https://plano-texas.geotechnical-engineering.xyz/plate-load-test/)
+- [Retaining Walls](https://plano-texas.geotechnical-engineering.xyz/retaining-walls/)
+- [Rigid Pavement](https://plano-texas.geotechnical-engineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://plano-texas.geotechnical-engineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://plano-texas.geotechnical-engineering.xyz/sand-cone-density/)
+- [Seismic](https://plano-texas.geotechnical-engineering.xyz/seismic/)
+- [Seismic Isolation](https://plano-texas.geotechnical-engineering.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://plano-texas.geotechnical-engineering.xyz/seismic-microzonation/)
+- [Slope Stability](https://plano-texas.geotechnical-engineering.xyz/slope-stability/)
+- [Slopes](https://plano-texas.geotechnical-engineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://plano-texas.geotechnical-engineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://plano-texas.geotechnical-engineering.xyz/spt-drilling/)
+- [Stone Columns](https://plano-texas.geotechnical-engineering.xyz/stone-columns/)
+- [Test Pits](https://plano-texas.geotechnical-engineering.xyz/test-pits/)
+- [Triaxial](https://plano-texas.geotechnical-engineering.xyz/triaxial/)
+- [Vibrocompaction](https://plano-texas.geotechnical-engineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://plano-texas.geotechnical-engineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Plano Texas, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
